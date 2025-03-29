@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Shetu003/LeetCode_Problems/tree/master/0274-h-index) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shetu003/LeetCode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Shetu003/LeetCode_Problems/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Shetu003/LeetCode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Shetu003/LeetCode_Problems/tree/master/0274-h-index) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shetu003/LeetCode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Shetu003/LeetCode_Problems/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Shetu003/LeetCode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Shetu003/LeetCode_Problems/tree/master/0189-rotate-array) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Shetu003/LeetCode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shetu003/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Shetu003/LeetCode_Problems/tree/master/0134-gas-station) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Shetu003/LeetCode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Counting Sort
 |  |
 | ------- |
@@ -91,10 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shetu003/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Shetu003/LeetCode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shetu003/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Shetu003/LeetCode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -111,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shetu003/LeetCode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/Shetu003/LeetCode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
