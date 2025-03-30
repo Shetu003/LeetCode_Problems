@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shetu003/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Shetu003/LeetCode_Problems/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/Shetu003/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/Shetu003/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shetu003/LeetCode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Binary Search
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Shetu003/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shetu003/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0768-partition-labels](https://github.com/Shetu003/LeetCode_Problems/tree/master/0768-partition-labels) |
 ## Queue
