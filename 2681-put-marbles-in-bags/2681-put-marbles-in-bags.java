@@ -11,7 +11,7 @@ class Solution {
         for (int i = 0; i < k - 1; i++){
             minSum += adjacentSums[i];
         } 
-        for (int i = n - 2; i >= n - k; i--){
+        for (int i = n - 2; i >= n - k; i--){ //since the adjSum has (n-1) elements the (n-2) gives us the last element
             maxSum += adjacentSums[i];
         }
         return maxSum - minSum;
