@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shetu003/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Shetu003/LeetCode_Problems/tree/master/0274-h-index) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shetu003/LeetCode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/Shetu003/LeetCode_Problems/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Shetu003/LeetCode_Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shetu003/LeetCode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Two Pointers
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shetu003/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Shetu003/LeetCode_Problems/tree/master/0274-h-index) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shetu003/LeetCode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/Shetu003/LeetCode_Problems/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Shetu003/LeetCode_Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shetu003/LeetCode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Hash Table
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Shetu003/LeetCode_Problems/tree/master/0134-gas-station) |
 | [0768-partition-labels](https://github.com/Shetu003/LeetCode_Problems/tree/master/0768-partition-labels) |
+| [2681-put-marbles-in-bags](https://github.com/Shetu003/LeetCode_Problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shetu003/LeetCode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Counting Sort
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shetu003/LeetCode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/Shetu003/LeetCode_Problems/tree/master/2681-put-marbles-in-bags) |
 ## Matrix
 |  |
 | ------- |
