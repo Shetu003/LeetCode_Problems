@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shetu003/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Shetu003/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Shetu003/LeetCode_Problems/tree/master/0274-h-index) |
+| [2262-solving-questions-with-brainpower](https://github.com/Shetu003/LeetCode_Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shetu003/LeetCode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Shetu003/LeetCode_Problems/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Shetu003/LeetCode_Problems/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shetu003/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shetu003/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2262-solving-questions-with-brainpower](https://github.com/Shetu003/LeetCode_Problems/tree/master/2262-solving-questions-with-brainpower) |
 ## Greedy
 |  |
 | ------- |
