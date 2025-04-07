@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shetu003/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Shetu003/LeetCode_Problems/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/Shetu003/LeetCode_Problems/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Shetu003/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Shetu003/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shetu003/LeetCode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2262-solving-questions-with-brainpower](https://github.com/Shetu003/LeetCode_Problems/tree/master/2262-solving-questions-with-brainpower) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shetu003/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0368-largest-divisible-subset](https://github.com/Shetu003/LeetCode_Problems/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Shetu003/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/Shetu003/LeetCode_Problems/tree/master/2262-solving-questions-with-brainpower) |
 ## Greedy
 |  |
