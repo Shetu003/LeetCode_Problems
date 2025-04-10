@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shetu003/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shetu003/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shetu003/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shetu003/LeetCode_Problems/tree/master/0031-next-permutation) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shetu003/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Shetu003/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shetu003/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shetu003/LeetCode_Problems/tree/master/0242-valid-anagram) |
