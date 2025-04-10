@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shetu003/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Shetu003/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Shetu003/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Shetu003/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shetu003/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shetu003/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Shetu003/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shetu003/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shetu003/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shetu003/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Shetu003/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Shetu003/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shetu003/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shetu003/LeetCode_Problems/tree/master/0242-valid-anagram) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shetu003/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Shetu003/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shetu003/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shetu003/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
