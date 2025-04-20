@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shetu003/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shetu003/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Shetu003/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Shetu003/LeetCode_Problems/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Shetu003/LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Shetu003/LeetCode_Problems/tree/master/0169-majority-element) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shetu003/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Shetu003/LeetCode_Problems/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Shetu003/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shetu003/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shetu003/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shetu003/LeetCode_Problems/tree/master/0242-valid-anagram) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shetu003/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shetu003/LeetCode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
 |  |
