@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shetu003/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shetu003/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shetu003/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Shetu003/LeetCode_Problems/tree/master/0143-reorder-list) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shetu003/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Shetu003/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Shetu003/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shetu003/LeetCode_Problems/tree/master/0242-valid-anagram) |
