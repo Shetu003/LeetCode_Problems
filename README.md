@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shetu003/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shetu003/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Shetu003/LeetCode_Problems/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shetu003/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Shetu003/LeetCode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Shetu003/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shetu003/LeetCode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shetu003/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Shetu003/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Shetu003/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/Shetu003/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shetu003/LeetCode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shetu003/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shetu003/LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shetu003/LeetCode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Shetu003/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Shetu003/LeetCode_Problems/tree/master/0792-binary-search) |
 ## Sorting
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shetu003/LeetCode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
