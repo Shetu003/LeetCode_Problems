@@ -298,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Shetu003/LeetCode_Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Shetu003/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shetu003/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Shetu003/LeetCode_Problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
