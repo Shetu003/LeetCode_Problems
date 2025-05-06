@@ -1,23 +1,44 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        int start=0;
-        int end=0;
-        int max_length=0;
-        List<Character> list = new ArrayList<>();
-        while(end<s.length()){
-            if(!list.contains(s.charAt(end))){
-                list.add(s.charAt(end));
-                end++;
-                max_length = Math.max(max_length,list.size());
+        HashSet<Character> set = new HashSet<>();
+        int left = 0;
+        int max_length = 0;
+        
+        for (int right = 0; right < s.length(); right++) {
+            char curr = s.charAt(right);
+
+            while (set.contains(curr)) {
+                set.remove(s.charAt(left));
+                left++;
             }
-            else{
-                list.remove(Character.valueOf(s.charAt(start)));
-                start++;
-            }
+            set.add(curr);
+            max_length = Math.max(max_length, right - left + 1);
         }
         return max_length;
     }
 }
+
+
+// class Solution {
+//     public int lengthOfLongestSubstring(String s) {
+//         int start=0;
+//         int end=0;
+//         int max_length=0;
+//         List<Character> list = new ArrayList<>();
+//         while(end<s.length()){
+//             if(!list.contains(s.charAt(end))){
+//                 list.add(s.charAt(end));
+//                 end++;
+//                 max_length = Math.max(max_length,list.size());
+//             }
+//             else{
+//                 list.remove(Character.valueOf(s.charAt(start)));
+//                 start++;
+//             }
+//         }
+//         return max_length;
+//     }
+// }
 
 // class Solution {
 //     public int lengthOfLongestSubstring(String s) {
