@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shetu003/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Shetu003/LeetCode_Problems/tree/master/0768-partition-labels) |
+| [1894-merge-strings-alternately](https://github.com/Shetu003/LeetCode_Problems/tree/master/1894-merge-strings-alternately) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shetu003/LeetCode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Binary Search
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shetu003/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Shetu003/LeetCode_Problems/tree/master/0768-partition-labels) |
+| [1894-merge-strings-alternately](https://github.com/Shetu003/LeetCode_Problems/tree/master/1894-merge-strings-alternately) |
 ## Queue
 |  |
 | ------- |
