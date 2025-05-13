@@ -15,10 +15,10 @@ public class Solution extends GuessGame {
             if(guess(mid)==0){ // Correct guess
                 return mid;
             }
-            else if(guess(mid) < 0){ // Picked number is lower 
+            else if(guess(mid) < 0){ // Picked number is lower i.e, from mid its lower 
                 high=mid-1;
             }
-            else{ // Picked number is higher
+            else{ // Picked number is higher i.e, from mid its higher 
                 low=mid+1;
             }
         }
