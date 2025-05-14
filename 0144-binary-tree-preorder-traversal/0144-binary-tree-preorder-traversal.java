@@ -19,10 +19,8 @@ class Solution {
         traverse(root);
         return res;
     }
-    private void traverse(TreeNode root){
-        if(root == null){
-            return;
-        }
+    public void traverse(TreeNode root){
+        if(root == null) return;
         res.add(root.val);
         traverse(root.left);
         traverse(root.right);
