@@ -6,9 +6,11 @@ class MyStack {
     }
 
     public void push(int x) {
-        q.add(x);
+        q.add(x); //Add the new element to the back of the queue
+
+        // Rotate all elements except the newly added one to the back, ensures the new element moves to the front of the queue,
         for (int i = 0; i < q.size() - 1; i++) {
-            q.add(q.poll());
+            q.add(q.poll()); // Remove the front element and add it to the back
         }
     }
 
