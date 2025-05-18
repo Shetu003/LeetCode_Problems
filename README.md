@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shetu003/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shetu003/LeetCode_Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Shetu003/LeetCode_Problems/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Shetu003/LeetCode_Problems/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/1013-fibonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shetu003/LeetCode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Shetu003/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Shetu003/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Shetu003/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Shetu003/LeetCode_Problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
