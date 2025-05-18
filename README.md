@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shetu003/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shetu003/LeetCode_Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Shetu003/LeetCode_Problems/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Shetu003/LeetCode_Problems/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/1013-fibonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shetu003/LeetCode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Shetu003/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Shetu003/LeetCode_Problems/tree/master/0342-power-of-four) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shetu003/LeetCode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shetu003/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Shetu003/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Shetu003/LeetCode_Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Shetu003/LeetCode_Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
