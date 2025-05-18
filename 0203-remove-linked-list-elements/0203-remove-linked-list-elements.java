@@ -8,18 +8,17 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+public class Solution {
     public ListNode removeElements(ListNode head, int val) {
-        ListNode dummy = new ListNode(0);
+        ListNode dummy = new ListNode(0); // dummy node
         dummy.next = head;
-        ListNode curr = dummy;
+        ListNode current = dummy;
 
-        while(curr.next != null){
-            if(curr.next.val != val){
-                curr = curr.next;
-            }
-            else{
-                curr.next = curr.next.next;
+        while (current.next != null) {
+            if (current.next.val == val) {
+                current.next = current.next.next; // skip node
+            } else {
+                current = current.next; // move forward
             }
         }
         return dummy.next;
