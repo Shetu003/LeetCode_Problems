@@ -6,8 +6,8 @@ class Solution {
         }
         int longest = 0;
         for(int num : numSet){
-            if(!numSet.contains(num-1)){
-                int length=1;
+            if(!numSet.contains(num-1)){ //we are only doing for forward not backward 
+                int length=1;  
 
                 while(numSet.contains(num+length)){
                     length++;
