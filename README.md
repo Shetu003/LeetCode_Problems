@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shetu003/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/Shetu003/LeetCode_Problems/tree/master/0368-largest-divisible-subset) |
+| [1013-fibonacci-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/1013-fibonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shetu003/LeetCode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shetu003/LeetCode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Dynamic Programming
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Shetu003/LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/Shetu003/LeetCode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Shetu003/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [1013-fibonacci-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/1013-fibonacci-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/Shetu003/LeetCode_Problems/tree/master/2262-solving-questions-with-brainpower) |
 ## Greedy
 |  |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Shetu003/LeetCode_Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Shetu003/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shetu003/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
 | ------- |
@@ -391,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Shetu003/LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
