@@ -6,10 +6,9 @@ class Solution {
         }
         Arrays.sort(height);
         String[] sorted = new String[names.length];
-        int index = 0;
-        for(int i=height.length-1; i>=0; i--){
-            sorted[index] = map.get(height[i]);
-            index++;
+        int n = names.length;
+        for(int i=0; i<n; i++){
+            sorted[i] = map.get(height[n-1-i]);
         }
         return sorted;
     }
