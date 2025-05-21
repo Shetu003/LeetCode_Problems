@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Shetu003/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Shetu003/LeetCode_Problems/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/Shetu003/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
+| [1293-three-consecutive-odds](https://github.com/Shetu003/LeetCode_Problems/tree/master/1293-three-consecutive-odds) |
 | [1656-count-good-triplets](https://github.com/Shetu003/LeetCode_Problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shetu003/LeetCode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/Shetu003/LeetCode_Problems/tree/master/2058-concatenation-of-array) |
