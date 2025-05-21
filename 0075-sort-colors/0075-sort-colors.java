@@ -3,6 +3,7 @@ class Solution {
         int start = 0;
         int mid = 0;
         int end = nums.length - 1;
+
         while (mid <= end) {
             if (nums[mid] == 0) {
                 int temp = nums[mid];
@@ -10,7 +11,6 @@ class Solution {
                 nums[start] = temp;
                 start++;
                 mid++;
-
             } else if (nums[mid] == 1) {
                 mid++;
             } else {
