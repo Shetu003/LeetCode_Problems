@@ -1,17 +1,24 @@
 class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
-        int startStation = 0, totalGas = 0, curGas = 0;
+        int currentTank = 0; 
+        int totalTank = 0;     
+        int startStation = 0;  
+
         for (int i = 0; i < gas.length; i++) {
-            curGas += gas[i] - cost[i];
-            if (curGas < 0) {
-                startStation = i + 1;
-                curGas = 0;
+            int diff = gas[i] - cost[i]; // Gas gained - gas spent at station i
+
+            currentTank += diff;  
+            totalTank += diff;   
+
+            if (currentTank < 0) { 
+                startStation = i + 1;  // Move start station to next station
+                currentTank = 0;       // Reset tank for the new start station candidate
             }
-            totalGas += gas[i] - cost[i];
         }
-        return totalGas < 0 ? -1 : startStation;
+        return totalTank >= 0 ? startStation : -1;
     }
 }
+
 // class Solution {
 //     public int canCompleteCircuit(int[] gas, int[] cost) {
 //         int currTank = 0;
