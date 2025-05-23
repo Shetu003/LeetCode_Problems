@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Shetu003/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Shetu003/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Shetu003/LeetCode_Problems/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/Shetu003/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Shetu003/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
 | [1293-three-consecutive-odds](https://github.com/Shetu003/LeetCode_Problems/tree/master/1293-three-consecutive-odds) |
 | [1656-count-good-triplets](https://github.com/Shetu003/LeetCode_Problems/tree/master/1656-count-good-triplets) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0324-wiggle-sort-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Shetu003/LeetCode_Problems/tree/master/0768-partition-labels) |
+| [0890-lemonade-change](https://github.com/Shetu003/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Shetu003/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
 | [2681-put-marbles-in-bags](https://github.com/Shetu003/LeetCode_Problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shetu003/LeetCode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
