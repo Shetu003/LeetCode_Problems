@@ -1,32 +1,23 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
-        List<String> res = new ArrayList<>();
-        if(digits == null || digits.length() == 0){
-            return res;
-        }
-        Map<Character, String> digToLtr = new HashMap<>();
-        digToLtr.put('2', "abc");
-        digToLtr.put('3', "def");
-        digToLtr.put('4', "ghi");
-        digToLtr.put('5', "jkl");
-        digToLtr.put('6', "mno");
-        digToLtr.put('7', "pqrs");
-        digToLtr.put('8', "tuv");
-        digToLtr.put('9', "wxyz");
+        List<String> ansList = new ArrayList<>();
+        String combi = "";
 
-        backtrack(digits,0, new StringBuilder(), res, digToLtr);
-        return res;
+        String[] arr = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+        if (digits == null || digits.isEmpty()) return ansList;
+        findCombination(digits, ansList, 0, combi, arr);
+        return ansList;
     }
-    private void backtrack(String digits, int idx, StringBuilder combn, List<String> res, Map<Character, String> digToLtr){
-        if(idx == digits.length()){
-            res.add(combn.toString());
+
+    private void findCombination(String digits, List<String> ansList, int index, String combi, String[] arr){
+        if(combi.length() == digits.length()){
+            ansList.add(combi);
             return;
         }
-        String letters = digToLtr.get(digits.charAt(idx));
-        for(char letter : letters.toCharArray()){
-            combn.append(letter);
-            backtrack(digits, idx+1, combn, res, digToLtr);
-            combn.deleteCharAt(combn.length() - 1);
+           String str = arr[digits.charAt(index) - '0'];
+
+        for(int i=0; i < str.length(); i++){
+            findCombination(digits, ansList, index + 1, combi + str.charAt(i), arr);
         }
     }
 }
