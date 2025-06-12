@@ -52,7 +52,7 @@ class LRUCache {
     }
     public void put(int key, int value) {
         if(map.containsKey(key)){ 
-            Node curr = map.get(key); //if  present then first we have to remove the key, then delete the node and then add it next to the head
+            Node curr = map.get(key); //if present update the key-value pairin which first we have to remove the key, then delete the node and then add it next to the head
             map.remove(key);
             deleteNode(curr);
         }
