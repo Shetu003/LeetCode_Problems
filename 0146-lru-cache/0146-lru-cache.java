@@ -51,16 +51,16 @@ class LRUCache {
         return -1;
     }
     public void put(int key, int value) {
-        if(map.containsKey(key)){
-            Node curr = map.get(key);
+        if(map.containsKey(key)){ 
+            Node curr = map.get(key); //if  present then first we have to remove the key, then delete the node and then add it next to the head
             map.remove(key);
             deleteNode(curr);
         }
-        if(map.size() == cap){
+        if(map.size() == cap){ //if not present then remove the key of prev of tail and then delete the prev of tail Node 
             map.remove(tail.prev.key);
             deleteNode(tail.prev);
         }
-        addNode(new Node(key,value));
+        addNode(new Node(key,value)); //then add the new kay value pair(Node) next to the head
         map.put(key, head.next);
     }
 }
