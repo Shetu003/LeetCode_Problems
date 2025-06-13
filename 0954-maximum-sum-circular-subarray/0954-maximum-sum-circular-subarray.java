@@ -1,3 +1,4 @@
+//Observation : finad totalSum and minSum, then find circularSum = totalSum - minSum and at the end comapre the circullaarSum with the max sum
 class Solution {
     public int maxSubarraySumCircular(int[] nums) {
         int totalSum = 0;
