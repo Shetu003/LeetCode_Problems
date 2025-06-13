@@ -2,12 +2,12 @@ class Solution {
     public String countAndSay(int n) {
         String result = "1"; // base case
         for (int i = 1; i < n; i++) { // generate next sequence
-            result = describe(result); 
+            result = rle(result);  //rle :Run-lenght-encoding
         }
         return result; 
     }
 
-    private String describe(String s) {
+    private String rle(String s) { 
         StringBuilder sb = new StringBuilder(); 
         int count = 1; // count chars 
 
