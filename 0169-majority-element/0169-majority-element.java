@@ -1,9 +1,9 @@
 //Moore's Voting Algorithm
-
 class Solution {
     public int majorityElement(int[] nums) {
         int cand = nums[0];
         int votes = 0;
+
         for(int i=0; i<nums.length; i++){
             if(votes == 0){
                 cand = nums[i];
@@ -19,6 +19,7 @@ class Solution {
         return cand;
     }
 }
+
 // class Solution {
 //     public int majorityElement(int[] nums) {
 //         int cand=0;
