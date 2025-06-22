@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shetu003/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shetu003/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shetu003/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shetu003/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/Shetu003/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shetu003/LeetCode_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2502-sort-the-people](https://github.com/Shetu003/LeetCode_Problems/tree/master/2502-sort-the-people) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shetu003/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shetu003/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shetu003/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shetu003/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Shetu003/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/Shetu003/LeetCode_Problems/tree/master/1894-merge-strings-alternately) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shetu003/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shetu003/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Shetu003/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
 ## Tree
 |  |
