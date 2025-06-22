@@ -1,14 +1,14 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        if (s.isEmpty()) return true;
-
-        int start = 0;
+        int first = 0; 
         int last = s.length()-1;
-        while(start<=last){
-            char currFirst = s.charAt(start);
+        
+        while(first <= last){
+            char currFirst = s.charAt(first);
             char currLast = s.charAt(last);
+
             if(!Character.isLetterOrDigit(currFirst)){
-                start++;
+                first++;
             }
             else if(!Character.isLetterOrDigit(currLast)){
                 last--;
@@ -17,7 +17,7 @@ class Solution {
                 if(Character.toLowerCase(currFirst) != Character.toLowerCase(currLast)){
                     return false;
                 }
-                start++;
+                first++;
                 last--;
             }
         }
