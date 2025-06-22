@@ -13,7 +13,7 @@ class Solution {
             }
 
             set.add(curr); //we can only add curr after removing duplicate
-            max_len = Math.max(max_len, right - left + 1);
+            max_len = Math.max(max_len, right - left + 1); //calculate the length of the current substring.(right - left + 1)
         }
         return max_len;
     }
