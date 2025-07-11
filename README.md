@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shetu003/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shetu003/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Shetu003/LeetCode_Problems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Shetu003/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Shetu003/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shetu003/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shetu003/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Shetu003/LeetCode_Problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Shetu003/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Shetu003/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Shetu003/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Shetu003/LeetCode_Problems/tree/master/0146-lru-cache) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shetu003/LeetCode_Problems/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Shetu003/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shetu003/LeetCode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Number Theory
 |  |
