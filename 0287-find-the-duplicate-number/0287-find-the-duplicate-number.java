@@ -2,8 +2,8 @@ class Solution {
     public int findDuplicate(int[] nums) {
         Set<Integer> set = new HashSet<>();
         for(int i=0; i<nums.length; i++){
-            if(set.contains(nums[i])){
-                return nums[i];
+            if(set.contains(nums[i])){ //if already in set, it's a duplicate
+                return nums[i]; //return the duplicate number 
             }
             else{
                 set.add(nums[i]);
