@@ -3,11 +3,10 @@ class Solution {
         Set<List<Integer>> set = new HashSet<>();
         Arrays.sort(nums);
         int n = nums.length;
-        if(nums == null) return new ArrayList<>();
 
         for(int i=0; i<n-2; i++){
             int j = i+1;
-            int k = nums.length-1;
+            int k = n-1;
 
             while(j < k){
                 int sum = nums[i] + nums[j] + nums[k];
@@ -28,3 +27,5 @@ class Solution {
         return new ArrayList<>(set);
     }
 }
+
+
