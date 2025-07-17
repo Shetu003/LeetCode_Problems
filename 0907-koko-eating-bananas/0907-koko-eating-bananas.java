@@ -5,7 +5,6 @@ class Solution {
         for(int pile : piles){
             right = Math.max(right, pile);
         }
-
         while(left < right){
             int mid = left + (right - left) / 2;
             if(canEatInTime(piles, h, mid)){
@@ -20,7 +19,7 @@ class Solution {
     public boolean canEatInTime(int piles[], int h, int speed){
         int hours = 0;
         for(int pile : piles){
-            hours += (int)Math.ceil((double)pile / speed);
+            hours += Math.ceil((double)pile / (double)speed);
         }
         return hours <= h;
     }
