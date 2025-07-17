@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Shetu003/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Shetu003/LeetCode_Problems/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Shetu003/LeetCode_Problems/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/Shetu003/LeetCode_Problems/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Shetu003/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Shetu003/LeetCode_Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1127-last-stone-weight](https://github.com/Shetu003/LeetCode_Problems/tree/master/1127-last-stone-weight) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Shetu003/LeetCode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/Shetu003/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Shetu003/LeetCode_Problems/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Shetu003/LeetCode_Problems/tree/master/0907-koko-eating-bananas) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Shetu003/LeetCode_Problems/tree/master/2263-maximum-running-time-of-n-computers) |
 ## Sorting
 |  |
