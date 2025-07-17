@@ -1,16 +1,14 @@
 class Solution {
-    public int[] dailyTemperatures(int[] temperatures) {
-        Stack<Integer> st = new Stack<>(); 
-        int result[] = new int[temperatures.length]; 
-
-        for (int i = 0; i < temperatures.length; i++) {
-            // while stack isn't empty and current element > element at top of stack
-            while(!st.isEmpty() && temperatures[i] > temperatures[st.peek()]) {
-                int idx = st.pop(); // pop index
-                result[idx] = i - idx; // days waited
+    public int[] dailyTemperatures(int[] temp) {
+        Stack<Integer> st = new Stack<>();
+        int result[] = new int[temp.length];
+        for(int i=0; i<temp.length; i++){
+            while(!st.isEmpty() && temp[i] > temp[st.peek()]){
+                int idx = st.pop();
+                result[idx] = i - idx;
             }
-            st.push(i); // push current index
+            st.push(i);
         }
-        return result; 
+        return result;
     }
 }
