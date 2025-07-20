@@ -7,10 +7,6 @@ class Solution {
             slow = slow.next;
             fast = fast.next.next;
         }
-        if(fast != null){
-            slow = slow.next;
-        }
-
         slow = reverse(slow);
         fast = head;
 
@@ -35,4 +31,3 @@ class Solution {
         return prev;
     }
 }
-
