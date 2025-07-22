@@ -1,11 +1,11 @@
 class Solution {
     public int myAtoi(String s) {
-        s = s.trim(); // remove leading/trailing whitespace
+        s = s.trim(); // remove whitespace
 
         int sign = 1; // default sign is positive
-        int i = 0;    // pointer to scan characters
-        long res = 0;  // store the result
-
+        int i = 0;
+        long res = 0;  
+        
         // check for sign symbol
         if (i < s.length()) {
             if (s.charAt(i) == '-') {
@@ -30,6 +30,6 @@ class Solution {
             i++;
         }
 
-        return (int) (sign * res); // return final number
+        return (int) (sign * res); 
     }
 }
