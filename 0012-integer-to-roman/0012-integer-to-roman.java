@@ -5,9 +5,9 @@ class Solution {
         String [] romanLetter = {"M","CM","D","CD","C","XC","L","XL","X","IX","V","IV","I"};
         int i=0;
         while(num > 0){
-            while(num >= values[i]){
-                roman += romanLetter[i];
-                num -= values[i];
+            while(num >= values[i]){ // Check how many times current value fits into number
+                roman += romanLetter[i]; // append the Roman symbol
+                num -= values[i]; // subtract the value from the num
             }
             i++;
         }
