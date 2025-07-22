@@ -5,7 +5,7 @@ class Solution {
         int sign = 1; // default sign is positive
         int i = 0;
         long res = 0;  
-        
+
         // check for sign symbol
         if (i < s.length()) {
             if (s.charAt(i) == '-') {
@@ -23,7 +23,7 @@ class Solution {
 
             res = res * 10 + (ch - '0'); // add digit to result
 
-            // clamp to integer range
+            // rounding to integer range
             if (sign * res > Integer.MAX_VALUE) return Integer.MAX_VALUE;
             if (sign * res < Integer.MIN_VALUE) return Integer.MIN_VALUE;
 
