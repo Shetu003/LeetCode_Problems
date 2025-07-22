@@ -9,12 +9,12 @@ class Solution {
         map.put('D', 500);
         map.put('M', 1000);
 
-        int result = map.get(s.charAt(s.length() - 1));
+        int result = map.get(s.charAt(s.length() - 1)); // Start result with value of the last character
 
-        for (int i = 0; i < s.length() - 1; i++) {
-            if (map.get(s.charAt(i)) < map.get(s.charAt(i + 1))) {
+        for (int i = 0; i < s.length() - 1; i++) { // Loop from second last character to the first
+            if (map.get(s.charAt(i)) < map.get(s.charAt(i + 1))) { // If current value is less than next, subtract it
                 result -= map.get(s.charAt(i));
-            } else {
+            } else { // Otherwise, add it
                 result += map.get(s.charAt(i));
             }
         }
