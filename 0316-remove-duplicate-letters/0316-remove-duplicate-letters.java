@@ -1,31 +1,30 @@
 class Solution {
     public String removeDuplicateLetters(String s) {
-        int[] lastIndex = new int[26]; //tracks last index of the characters
-        for(int i=0; i<s.length(); i++){
-            lastIndex[s.charAt(i) - 'a'] = i;
+        Map<Character, Integer> lastOccurrence = new HashMap<>();
+        for (int i = 0; i < s.length(); i++) {
+            lastOccurrence.put(s.charAt(i), i);
         }
 
-        boolean[] seen = new boolean[26];
-        Stack<Integer> st = new Stack<>();
+        Stack<Character> stack = new Stack<>();
+        Set<Character> visited = new HashSet<>();
 
-        for(int i=0; i<s.length(); i++){
-            int curr = s.charAt(i) - 'a';
-            if(seen[curr]){
-                continue; //is already present then skip
-            } 
-            while(!st.empty() && st.peek()> curr && i < lastIndex[st.peek()]){ //pop out and mark unseen
-                int ele = st.pop();
-                seen[ele] = false;
+        for (int i = 0; i < s.length(); i++) {
+            if (visited.contains(s.charAt(i))) {
+                continue;
             }
-            st.push(curr); //if not all these then push and mark as seen
-            seen[curr] = true;
+
+            while (!stack.isEmpty() && s.charAt(i) < stack.peek() && i < lastOccurrence.getOrDefault(stack.peek(), -1)) {
+                visited.remove(stack.pop());
+            }
+
+            visited.add(s.charAt(i));
+            stack.push(s.charAt(i));
         }
 
-        StringBuilder sb = new StringBuilder();
-        while(!st.empty()){
-            sb.append((char) (st.pop() + 'a')); // ex: (char)(c(2) + 'a')  // 'a' has ASCII 97 → 97 + 2 = 99 → (char)99 = 'c'
+        StringBuilder result = new StringBuilder();
+        for (char ch : stack) {
+            result.append(ch);
         }
-
-        return sb.reverse().toString();
+        return result.toString();        
     }
 }
