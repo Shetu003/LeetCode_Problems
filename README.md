@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Shetu003/LeetCode_Problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shetu003/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shetu003/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Shetu003/LeetCode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shetu003/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shetu003/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shetu003/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Shetu003/LeetCode_Problems/tree/master/0165-compare-version-numbers) |
+| [0187-repeated-dna-sequences](https://github.com/Shetu003/LeetCode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Shetu003/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Shetu003/LeetCode_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Shetu003/LeetCode_Problems/tree/master/0344-reverse-string) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shetu003/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Shetu003/LeetCode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shetu003/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Shetu003/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Shetu003/LeetCode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Shetu003/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Shetu003/LeetCode_Problems/tree/master/0342-power-of-four) |
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Shetu003/LeetCode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/Shetu003/LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
 ## Memoization
 |  |
@@ -523,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Shetu003/LeetCode_Problems/tree/master/0954-maximum-sum-circular-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Shetu003/LeetCode_Problems/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
