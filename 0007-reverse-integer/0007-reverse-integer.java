@@ -4,10 +4,10 @@ class Solution {
         while(x != 0){
             int digit = x % 10;
 
-            if((ans > Integer.MAX_VALUE/10) || (ans < Integer.MIN_VALUE/10)){
+            if((ans > Integer.MAX_VALUE/10) || (ans < Integer.MIN_VALUE/10)){ // check for overflow
                 return 0;
             }
-            
+
             ans = (ans * 10) + digit;
             x = x/10;
         }
