@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Shetu003/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Shetu003/LeetCode_Problems/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Shetu003/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
+| [0940-fruit-into-baskets](https://github.com/Shetu003/LeetCode_Problems/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Shetu003/LeetCode_Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1127-last-stone-weight](https://github.com/Shetu003/LeetCode_Problems/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/Shetu003/LeetCode_Problems/tree/master/1293-three-consecutive-odds) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shetu003/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shetu003/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/Shetu003/LeetCode_Problems/tree/master/0768-partition-labels) |
+| [0940-fruit-into-baskets](https://github.com/Shetu003/LeetCode_Problems/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shetu003/LeetCode_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2502-sort-the-people](https://github.com/Shetu003/LeetCode_Problems/tree/master/2502-sort-the-people) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Shetu003/LeetCode_Problems/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shetu003/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Shetu003/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/Shetu003/LeetCode_Problems/tree/master/0940-fruit-into-baskets) |
 ## Tree
 |  |
 | ------- |
