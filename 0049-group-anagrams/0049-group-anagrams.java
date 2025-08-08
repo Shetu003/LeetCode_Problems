@@ -1,9 +1,3 @@
-
-
-
-
-
-
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         // Step 1: Create a HashMap where
