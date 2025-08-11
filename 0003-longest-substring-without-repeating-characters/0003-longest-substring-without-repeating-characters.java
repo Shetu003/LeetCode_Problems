@@ -4,14 +4,14 @@ class Solution {
         int left = 0;
         int max_len = 0;
 
-        for (int right = 0; right < s.length(); right++) {
-            char curr = s.charAt(right);
+        for (int right = 0; right < s.length(); right++) { //iterate over the string 
+            char curr = s.charAt(right); 
 
-            while(set.contains(curr)) {
+            while(set.contains(curr)) { //if the char already present then remove the first ele in the window
                 set.remove(s.charAt(left));
                 left++;
             }
-            set.add(curr);
+            set.add(curr); //if not duplicate then add into set
             max_len = Math.max(max_len, right - left + 1);
         }
         return max_len;
