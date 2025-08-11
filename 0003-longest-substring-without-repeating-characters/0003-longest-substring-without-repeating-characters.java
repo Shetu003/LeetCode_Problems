@@ -4,21 +4,19 @@ class Solution {
         int left = 0;
         int max_len = 0;
 
-        for(int right=0; right<s.length(); right++){
+        for (int right = 0; right < s.length(); right++) {
             char curr = s.charAt(right);
 
-            while(set.contains(curr)){
+            while(set.contains(curr)) {
                 set.remove(s.charAt(left));
                 left++;
             }
-
-            set.add(curr); //we can only add curr after removing duplicate
-            max_len = Math.max(max_len, right - left + 1); //calculate the length of the current substring.(right - left + 1)
+            set.add(curr);
+            max_len = Math.max(max_len, right - left + 1);
         }
         return max_len;
     }
 }
-
 
 // class Solution {
 //     public int lengthOfLongestSubstring(String s) {
