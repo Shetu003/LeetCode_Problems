@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Shetu003/LeetCode_Problems/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/Shetu003/LeetCode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Shetu003/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shetu003/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Shetu003/LeetCode_Problems/tree/master/0368-largest-divisible-subset) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Shetu003/LeetCode_Problems/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/Shetu003/LeetCode_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/Shetu003/LeetCode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Shetu003/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/Shetu003/LeetCode_Problems/tree/master/0890-lemonade-change) |
