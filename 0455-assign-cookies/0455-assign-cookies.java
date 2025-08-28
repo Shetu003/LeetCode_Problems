@@ -6,13 +6,13 @@ class Solution {
         Arrays.sort(g);    // sort children greed factors 
         Arrays.sort(s);    // sort cookies sizes 
 
-        int i = 0, j = 0;  // i → index for cookies, j → index for children
-        while(i < m && j < n){    
-            if(g[j] <= s[i]){     // if cookie size >= child's greed
-                j++;              // child is satisfied → move to next child
+        int i = 0, j = 0;  // i → index for children, j → index for cookies
+        while(i < n && j < m){    
+            if(g[i] <= s[j]){     // if cookie size >= child's greed
+                i++;              // child is satisfied → move to next child
             }
-            i++;                  // always move to next cookie
+            j++;                  // always move to next cookie
         }
-        return j;   
+        return i;   
     }
 }
