@@ -1,19 +1,16 @@
 class Solution {
     public int jump(int[] nums) {
-        int totaljumps=0,covrage=0,lastjump=0;
-        if(nums.length==1){
-            return 0;
-        }
-        for(int i=0;i<nums.length;i++){
-            covrage = Math.max(covrage,i+nums[i]);
-            if(i==lastjump){
-                lastjump=covrage;
-                totaljumps++;
-                if(covrage>=nums.length-1){
-                    return totaljumps;
-                }
+        int jumps = 0, left = 0, right = 0;
+
+        while(right < nums.length-1){
+            int farthest = 0;
+            for(int i=left; i<=right; i++){
+                farthest = Math.max(farthest, i+nums[i]);
             }
+            left = right + 1;
+            right = farthest;
+            jumps++;
         }
-        return -1;
+        return jumps;
     }
 }
