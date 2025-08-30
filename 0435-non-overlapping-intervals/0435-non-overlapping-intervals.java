@@ -7,8 +7,8 @@ class Solution {
         int count = 1;
 
         for (int i = 0; i < n; i++) {
-            if (intervals[i][0] >= LastEndTime) {
-                LastEndTime = intervals[i][1];
+            if (intervals[i][0] >= LastEndTime) { // ith index in array and its start time > lastEnding time 
+                LastEndTime = intervals[i][1];  
                 count++;
             }
         }
