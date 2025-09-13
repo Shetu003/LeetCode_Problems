@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Shetu003/LeetCode_Problems/tree/master/1013-fibonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shetu003/LeetCode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shetu003/LeetCode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3462-vowels-game-in-a-string](https://github.com/Shetu003/LeetCode_Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Shetu003/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/Shetu003/LeetCode_Problems/tree/master/1894-merge-strings-alternately) |
 | [2502-sort-the-people](https://github.com/Shetu003/LeetCode_Problems/tree/master/2502-sort-the-people) |
+| [3462-vowels-game-in-a-string](https://github.com/Shetu003/LeetCode_Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -562,4 +564,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Shetu003/LeetCode_Problems/tree/master/0187-repeated-dna-sequences) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Shetu003/LeetCode_Problems/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Shetu003/LeetCode_Problems/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
