@@ -10,12 +10,13 @@ class Solution {
             }
             else{
                 int currProfit = prices[i] - buyPrice;
-                profit = Math.max(currProfit , profit);
+                profit = Math.max(profit, currProfit);
             }
         }
         return profit;
     }
 }
+
 
 //DP
 // public class Solution {
