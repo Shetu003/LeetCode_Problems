@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Shetu003/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Shetu003/LeetCode_Problems/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Shetu003/LeetCode_Problems/tree/master/0954-maximum-sum-circular-subarray) |
+| [1036-rotting-oranges](https://github.com/Shetu003/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Shetu003/LeetCode_Problems/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/Shetu003/LeetCode_Problems/tree/master/1293-three-consecutive-odds) |
 | [1656-count-good-triplets](https://github.com/Shetu003/LeetCode_Problems/tree/master/1656-count-good-triplets) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Shetu003/LeetCode_Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shetu003/LeetCode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Shetu003/LeetCode_Problems/tree/master/0226-invert-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Shetu003/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shetu003/LeetCode_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shetu003/LeetCode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Union Find
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Shetu003/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Shetu003/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
+| [1036-rotting-oranges](https://github.com/Shetu003/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shetu003/LeetCode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Number Theory
 |  |
