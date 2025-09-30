@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2263-maximum-running-time-of-n-computers](https://github.com/Shetu003/LeetCode_Problems/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2502-sort-the-people](https://github.com/Shetu003/LeetCode_Problems/tree/master/2502-sort-the-people) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shetu003/LeetCode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Shetu003/LeetCode_Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2681-put-marbles-in-bags](https://github.com/Shetu003/LeetCode_Problems/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Shetu003/LeetCode_Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shetu003/LeetCode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shetu003/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shetu003/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shetu003/LeetCode_Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Shetu003/LeetCode_Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Math
 |  |
 | ------- |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Shetu003/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/Shetu003/LeetCode_Problems/tree/master/1894-merge-strings-alternately) |
 | [2502-sort-the-people](https://github.com/Shetu003/LeetCode_Problems/tree/master/2502-sort-the-people) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Shetu003/LeetCode_Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3462-vowels-game-in-a-string](https://github.com/Shetu003/LeetCode_Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Queue
 |  |
