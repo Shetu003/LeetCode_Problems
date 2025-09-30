@@ -23,7 +23,7 @@ class Solution {
                 if(grid[i][j] == 1) cntFresh++; //inc fresh count 
             }
         }
-        // Directions (up, right, down, left)
+        // Directions (up, right, down, left) for row, (up=-1, right=0, down=1, left=0), for col, (up=0. right=+1, down=0, left=-1)
         int drow[] = {-1,0,+1,0}; 
         int dcol[] = {0,1,0,-1};
         int count = 0;
@@ -36,9 +36,9 @@ class Solution {
             int t = p.t;
             time = Math.max(time, t);
 
-            for(int k=0; k<4; k++){
-                int nr = r + drow[k];
-                int nc = c + dcol[k];
+            for(int i=0; i<4; i++){
+                int nr = r + drow[i];
+                int nc = c + dcol[i];
 
                 // check bounds + not visited + fresh orange
                 if(nr >=0 && nr < m && nc >=0 && nc < n && vis[nr][nc] !=2 && grid[nr][nc] == 1){
