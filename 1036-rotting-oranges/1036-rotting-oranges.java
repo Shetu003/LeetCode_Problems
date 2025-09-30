@@ -48,7 +48,7 @@ class Solution {
                 }
             }
         }
-        if(count != cntFresh) return -1; //If not all fresh oranges were rotted
+        if(count != cntFresh) return -1; //If not all fresh oranges were rotted(sab hona chahiye fresh wala rotten)
         return time;
     }
 }
