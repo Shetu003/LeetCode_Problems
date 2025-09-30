@@ -44,7 +44,7 @@ class Solution {
                 if(nr >=0 && nr < m && nc >=0 && nc < n && vis[nr][nc] !=2 && grid[nr][nc] == 1){
                     q.add(new Pair(nr, nc, t + 1));
                     vis[nr][nc] = 2; //mark as rotten
-                    count++;
+                    count++; //count how many became rotten 
                 }
             }
         }
