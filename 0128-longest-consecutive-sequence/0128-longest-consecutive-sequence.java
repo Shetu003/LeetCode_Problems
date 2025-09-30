@@ -6,8 +6,8 @@ class Solution {
         }
         int longest = 0;
         for(int num : set){
-            if(!set.contains(num-1)){
-                int length = 1;
+            if(!set.contains(num-1)){ // no prev no, sequence starts from here 
+                int length = 1; //1st no itself 
                 while(set.contains(num + length)){
                     length++;
                 }
@@ -17,3 +17,8 @@ class Solution {
         return longest;
     }
 }
+
+
+
+
+
