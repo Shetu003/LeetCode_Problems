@@ -2,15 +2,15 @@
 class Solution {
     public int findKthLargest(int[] nums, int k) {
         PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
-        for(int i=0; i<nums.length; i++){
-            pq.add(nums[i]);
+
+        for(int num : nums){
+            pq.add(num);
         }
-        int f = k-1;
-        while(f>0){
+
+        for(int i=1; i<k; i++){
             pq.poll();
-            f--;
         }
-        return pq.peek();        
+        return pq.peek();    
     }
 }
 //using min priority queue
@@ -34,12 +34,5 @@ class Solution {
 //     public int findKthLargest(int[] nums, int k) {
 //         Arrays.sort(nums);
 //         return nums[nums.length - k];        
-//     }
-// }
-//using sorting
-// class Solution {
-//     public int findKthLargest(int[] nums, int k) {
-//         Arrays.sort(nums);
-//         return nums[nums.length - k];
 //     }
 // }
