@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Shetu003/LeetCode_Problems/tree/master/1293-three-consecutive-odds) |
 | [1656-count-good-triplets](https://github.com/Shetu003/LeetCode_Problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shetu003/LeetCode_Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/Shetu003/LeetCode_Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2058-concatenation-of-array](https://github.com/Shetu003/LeetCode_Problems/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shetu003/LeetCode_Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2262-solving-questions-with-brainpower](https://github.com/Shetu003/LeetCode_Problems/tree/master/2262-solving-questions-with-brainpower) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Shetu003/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/Shetu003/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Shetu003/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/Shetu003/LeetCode_Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Shetu003/LeetCode_Problems/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2681-put-marbles-in-bags](https://github.com/Shetu003/LeetCode_Problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shetu003/LeetCode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
