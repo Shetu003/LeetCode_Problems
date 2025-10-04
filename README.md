@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Shetu003/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shetu003/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Shetu003/LeetCode_Problems/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Shetu003/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Shetu003/LeetCode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Shetu003/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Shetu003/LeetCode_Problems/tree/master/0792-binary-search) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shetu003/LeetCode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Shetu003/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Shetu003/LeetCode_Problems/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Shetu003/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Shetu003/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shetu003/LeetCode_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shetu003/LeetCode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shetu003/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Shetu003/LeetCode_Problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Shetu003/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shetu003/LeetCode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
 |  |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shetu003/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Shetu003/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Shetu003/LeetCode_Problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Shetu003/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Shetu003/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shetu003/LeetCode_Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Number Theory
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shetu003/LeetCode_Problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shetu003/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shetu003/LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Shetu003/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shetu003/LeetCode_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
