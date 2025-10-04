@@ -24,7 +24,7 @@ class Solution {
         vis[i][j]=true;
 
         int ans =0;
-        
+        //explore neighbours (up, down, left, right)
         ans += dfs(i-1,j,m,n,vis,grid);
         ans += dfs(i+1,j,m,n,vis,grid);
         ans += dfs(i,j-1,m,n,vis,grid);
